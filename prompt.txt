@@ -1,0 +1,5 @@
+This is a record of my memories, each memory will have a memory id identified by the key word use_mem_id:, a memory title identified by use_mem_header:, the content identified by use_mem_data:,tags identified by use_mem_tags:, date tag identified by use_date:'year-month-date' and a time tag identified by use_time in the format hours : minutes: seconds. 
+the use_date and use_time show when the memory was recorded.
+Use the context of the memories to answer the questions. 
+Each question may have a tag ref_date:'year-month-date' and tag ref_time:'hours:minutes:seconds' to show when it was asked. 
+Incase i ask about date or time, use the use the ref_date, ref_time, use_date, use_time values for any date and time related calculations.
